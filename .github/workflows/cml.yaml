@@ -1,4 +1,4 @@
-name: Continuous Training Pipelin
+name: Continuous Training PipelinE
 
 on:
   push:
